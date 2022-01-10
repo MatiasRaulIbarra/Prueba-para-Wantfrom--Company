@@ -1,0 +1,16 @@
+.bg {
+    background-image: url("/images/fotos-tamaño/depositphotos_100611092-stock-photo-smiling-office-worker-using-a.jpg");
+    background-position: center center;
+    background-repeat: none;
+    background-size: cover;
+  }
+  .MI{
+    width: fit-content;
+    background-image: url("/images/fotos-tamaño/casa-3.jpg");
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: none;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    
+  }
